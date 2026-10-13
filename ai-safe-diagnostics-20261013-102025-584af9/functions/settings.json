@@ -1,0 +1,53 @@
+[
+  {
+    "id": "secure_auto_cloud_approval",
+    "type": "filter",
+    "declared_version": "0.3.3",
+    "valves": {
+      "broker_base_url": "http://ai-broker:8090/v1",
+      "REDACTED_FIELD_1": "<REDACTED>"
+    },
+    "is_active": 1,
+    "is_global": 1
+  },
+  {
+    "id": "secure_auto_outlet_probe",
+    "type": "filter",
+    "declared_version": "0.1.0",
+    "valves": "<REDACTED>",
+    "is_active": 0,
+    "is_global": 0
+  },
+  {
+    "id": "secure_auto_learning_actions",
+    "type": "action",
+    "declared_version": "0.1.3",
+    "valves": {
+      "broker_base_url": "http://ai-broker:8090/v1",
+      "REDACTED_FIELD_1": "<REDACTED>",
+      "timeout_seconds": 30,
+      "priority": 20
+    },
+    "is_active": 1,
+    "is_global": 1
+  },
+  {
+    "id": "secure_auto_external_verification",
+    "type": "action",
+    "declared_version": "0.1.5",
+    "valves": {
+      "broker_base_url": "http://ai-broker:8090/v1",
+      "REDACTED_FIELD_1": "<REDACTED>"
+    },
+    "is_active": 1,
+    "is_global": 1
+  },
+  {
+    "id": "secure_auto_action_labels",
+    "type": "filter",
+    "declared_version": "0.1.2",
+    "valves": "<REDACTED>",
+    "is_active": 1,
+    "is_global": 1
+  }
+]

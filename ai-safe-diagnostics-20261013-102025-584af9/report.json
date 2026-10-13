@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "generated_at_utc": "2026-10-13T08:20:25.139700+00:00",
+  "checks": {
+    "docker_inspect": true,
+    "anythingllm_log_read": true,
+    "ai-broker_structural_sources": true,
+    "privacy-gateway_structural_sources": true
+  },
+  "privacy_mode": "allowlisted_values_structural_sources_logs_as_markers",
+  "openwebui_version": "unavailable",
+  "webui_database": {
+    "function_count": 5,
+    "model_count": 2,
+    "mode": "read_only_function_and_model_tables_only"
+  },
+  "host_root_exists": true,
+  "host_top_level": {
+    "directory_count": 10,
+    "file_count": 35
+  }
+}

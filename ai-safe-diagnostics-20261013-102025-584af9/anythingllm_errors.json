@@ -1,0 +1,51 @@
+{
+  "lines_examined": 121,
+  "raw_lines_exported": false,
+  "counts": {
+    "storage_configuration": 7,
+    "missing_environment": 7,
+    "TypeError": 4
+  },
+  "last_recognized_events": [
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "storage_configuration",
+      "missing_environment"
+    ],
+    [
+      "TypeError"
+    ],
+    [
+      "TypeError"
+    ],
+    [
+      "TypeError"
+    ],
+    [
+      "TypeError"
+    ]
+  ]
+}
